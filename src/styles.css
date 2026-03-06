@@ -1,0 +1,18 @@
+body {
+    background-color: #111;
+    color: white;
+}
+
+.counter {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+}
+
+button {
+    margin: 10px 10px 0 0;
+    padding: 5px;
+    background-color: #aaa;
+    font-weight: bold;
+    border-color: white;
+    cursor: pointer;
+}
